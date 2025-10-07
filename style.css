@@ -103,8 +103,8 @@ span{
   margin-top: 10px;
   position: relative;
   top: 2.5rem;
-  width: 320px;
-  height: 320px;
+  width: 280px;
+  height: 280px;
   border-radius: 50%;
   box-shadow: 0 0 20px var(--main-color);
   cursor: pointer;
